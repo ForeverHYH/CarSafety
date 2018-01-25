@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: a63ff558ea67f6f4593d30c1362bc601
+timeCreated: 1516354897
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Archmodels55_02_stand
+    100002: Archmodels55_02_stand 1
+    100004: Archmodels55_02_stand 2
+    100006: Archmodels55_02_stand 3
+    100008: Archmodels55_02_stand 4
+    100010: Archmodels55_02_stand 5
+    100012: Archmodels55_02_stand 6
+    100014: //RootNode
+    100016: group1
+    100018: group1 1
+    100020: group1 2
+    100022: group1 3
+    100024: group1 4
+    100026: group1 5
+    100028: group1 6
+    100030: group1 7
+    100032: group10
+    100034: group11
+    100036: group2
+    100038: group2 1
+    100040: group2 2
+    100042: group2 3
+    100044: group2 4
+    100046: group2 5
+    100048: group2 6
+    100050: group2 7
+    100052: group3
+    100054: group3 1
+    100056: group3 2
+    100058: group3 3
+    100060: group3 4
+    100062: group3 5
+    100064: group3 6
+    100066: group3 7
+    100068: group4
+    100070: group5
+    100072: group6
+    100074: group7
+    100076: group8
+    100078: group9
+    100080: mobai1:mobai:Archmodels55_02_stand
+    100082: polySurface267
+    100084: polySurface267 1
+    100086: polySurface267 2
+    100088: polySurface267 3
+    100090: polySurface267 4
+    100092: polySurface267 5
+    100094: polySurface267 6
+    100096: polySurface267 7
+    100098: polySurface269
+    100100: polySurface269 1
+    100102: polySurface269 2
+    100104: polySurface269 3
+    100106: polySurface269 4
+    100108: polySurface269 5
+    100110: polySurface269 6
+    100112: polySurface269 7
+    100114: polySurface833
+    100116: polySurface833 1
+    100118: polySurface833 2
+    100120: polySurface833 3
+    100122: polySurface833 4
+    100124: polySurface833 5
+    100126: polySurface833 6
+    100128: polySurface833 7
+    100130: polySurface834
+    100132: polySurface834 1
+    100134: polySurface834 2
+    100136: polySurface834 3
+    100138: polySurface834 4
+    100140: polySurface834 5
+    100142: polySurface834 6
+    100144: polySurface834 7
+    100146: polySurface835
+    100148: polySurface835 1
+    100150: polySurface835 2
+    100152: polySurface835 3
+    100154: polySurface835 4
+    100156: polySurface835 5
+    100158: polySurface835 6
+    100160: polySurface835 7
+    100162: polySurface837
+    100164: polySurface837 1
+    100166: polySurface837 2
+    100168: polySurface837 3
+    100170: polySurface837 4
+    100172: polySurface837 5
+    100174: polySurface837 6
+    100176: polySurface837 7
+    100178: polySurface838
+    100180: polySurface838 1
+    100182: polySurface838 2
+    100184: polySurface838 3
+    100186: polySurface838 4
+    100188: polySurface838 5
+    100190: polySurface838 6
+    100192: polySurface838 7
+    100194: pPlane2
+    400000: Archmodels55_02_stand
+    400002: Archmodels55_02_stand 1
+    400004: Archmodels55_02_stand 2
+    400006: Archmodels55_02_stand 3
+    400008: Archmodels55_02_stand 4
+    400010: Archmodels55_02_stand 5
+    400012: Archmodels55_02_stand 6
+    400014: //RootNode
+    400016: group1
+    400018: group1 1
+    400020: group1 2
+    400022: group1 3
+    400024: group1 4
+    400026: group1 5
+    400028: group1 6
+    400030: group1 7
+    400032: group10
+    400034: group11
+    400036: group2
+    400038: group2 1
+    400040: group2 2
+    400042: group2 3
+    400044: group2 4
+    400046: group2 5
+    400048: group2 6
+    400050: group2 7
+    400052: group3
+    400054: group3 1
+    400056: group3 2
+    400058: group3 3
+    400060: group3 4
+    400062: group3 5
+    400064: group3 6
+    400066: group3 7
+    400068: group4
+    400070: group5
+    400072: group6
+    400074: group7
+    400076: group8
+    400078: group9
+    400080: mobai1:mobai:Archmodels55_02_stand
+    400082: polySurface267
+    400084: polySurface267 1
+    400086: polySurface267 2
+    400088: polySurface267 3
+    400090: polySurface267 4
+    400092: polySurface267 5
+    400094: polySurface267 6
+    400096: polySurface267 7
+    400098: polySurface269
+    400100: polySurface269 1
+    400102: polySurface269 2
+    400104: polySurface269 3
+    400106: polySurface269 4
+    400108: polySurface269 5
+    400110: polySurface269 6
+    400112: polySurface269 7
+    400114: polySurface833
+    400116: polySurface833 1
+    400118: polySurface833 2
+    400120: polySurface833 3
+    400122: polySurface833 4
+    400124: polySurface833 5
+    400126: polySurface833 6
+    400128: polySurface833 7
+    400130: polySurface834
+    400132: polySurface834 1
+    400134: polySurface834 2
+    400136: polySurface834 3
+    400138: polySurface834 4
+    400140: polySurface834 5
+    400142: polySurface834 6
+    400144: polySurface834 7
+    400146: polySurface835
+    400148: polySurface835 1
+    400150: polySurface835 2
+    400152: polySurface835 3
+    400154: polySurface835 4
+    400156: polySurface835 5
+    400158: polySurface835 6
+    400160: polySurface835 7
+    400162: polySurface837
+    400164: polySurface837 1
+    400166: polySurface837 2
+    400168: polySurface837 3
+    400170: polySurface837 4
+    400172: polySurface837 5
+    400174: polySurface837 6
+    400176: polySurface837 7
+    400178: polySurface838
+    400180: polySurface838 1
+    400182: polySurface838 2
+    400184: polySurface838 3
+    400186: polySurface838 4
+    400188: polySurface838 5
+    400190: polySurface838 6
+    400192: polySurface838 7
+    400194: pPlane2
+    2300000: Archmodels55_02_stand
+    2300002: Archmodels55_02_stand 1
+    2300004: Archmodels55_02_stand 2
+    2300006: Archmodels55_02_stand 3
+    2300008: Archmodels55_02_stand 4
+    2300010: Archmodels55_02_stand 5
+    2300012: Archmodels55_02_stand 6
+    2300014: mobai1:mobai:Archmodels55_02_stand
+    2300016: polySurface267
+    2300018: polySurface267 1
+    2300020: polySurface267 2
+    2300022: polySurface267 3
+    2300024: polySurface267 4
+    2300026: polySurface267 5
+    2300028: polySurface267 6
+    2300030: polySurface267 7
+    2300032: polySurface269
+    2300034: polySurface269 1
+    2300036: polySurface269 2
+    2300038: polySurface269 3
+    2300040: polySurface269 4
+    2300042: polySurface269 5
+    2300044: polySurface269 6
+    2300046: polySurface269 7
+    2300048: polySurface833
+    2300050: polySurface833 1
+    2300052: polySurface833 2
+    2300054: polySurface833 3
+    2300056: polySurface833 4
+    2300058: polySurface833 5
+    2300060: polySurface833 6
+    2300062: polySurface833 7
+    2300064: polySurface834
+    2300066: polySurface834 1
+    2300068: polySurface834 2
+    2300070: polySurface834 3
+    2300072: polySurface834 4
+    2300074: polySurface834 5
+    2300076: polySurface834 6
+    2300078: polySurface834 7
+    2300080: polySurface835
+    2300082: polySurface835 1
+    2300084: polySurface835 2
+    2300086: polySurface835 3
+    2300088: polySurface835 4
+    2300090: polySurface835 5
+    2300092: polySurface835 6
+    2300094: polySurface835 7
+    2300096: polySurface837
+    2300098: polySurface837 1
+    2300100: polySurface837 2
+    2300102: polySurface837 3
+    2300104: polySurface837 4
+    2300106: polySurface837 5
+    2300108: polySurface837 6
+    2300110: polySurface837 7
+    2300112: polySurface838
+    2300114: polySurface838 1
+    2300116: polySurface838 2
+    2300118: polySurface838 3
+    2300120: polySurface838 4
+    2300122: polySurface838 5
+    2300124: polySurface838 6
+    2300126: polySurface838 7
+    2300128: pPlane2
+    3300000: Archmodels55_02_stand
+    3300002: Archmodels55_02_stand 1
+    3300004: Archmodels55_02_stand 2
+    3300006: Archmodels55_02_stand 3
+    3300008: Archmodels55_02_stand 4
+    3300010: Archmodels55_02_stand 5
+    3300012: Archmodels55_02_stand 6
+    3300014: mobai1:mobai:Archmodels55_02_stand
+    3300016: polySurface267
+    3300018: polySurface267 1
+    3300020: polySurface267 2
+    3300022: polySurface267 3
+    3300024: polySurface267 4
+    3300026: polySurface267 5
+    3300028: polySurface267 6
+    3300030: polySurface267 7
+    3300032: polySurface269
+    3300034: polySurface269 1
+    3300036: polySurface269 2
+    3300038: polySurface269 3
+    3300040: polySurface269 4
+    3300042: polySurface269 5
+    3300044: polySurface269 6
+    3300046: polySurface269 7
+    3300048: polySurface833
+    3300050: polySurface833 1
+    3300052: polySurface833 2
+    3300054: polySurface833 3
+    3300056: polySurface833 4
+    3300058: polySurface833 5
+    3300060: polySurface833 6
+    3300062: polySurface833 7
+    3300064: polySurface834
+    3300066: polySurface834 1
+    3300068: polySurface834 2
+    3300070: polySurface834 3
+    3300072: polySurface834 4
+    3300074: polySurface834 5
+    3300076: polySurface834 6
+    3300078: polySurface834 7
+    3300080: polySurface835
+    3300082: polySurface835 1
+    3300084: polySurface835 2
+    3300086: polySurface835 3
+    3300088: polySurface835 4
+    3300090: polySurface835 5
+    3300092: polySurface835 6
+    3300094: polySurface835 7
+    3300096: polySurface837
+    3300098: polySurface837 1
+    3300100: polySurface837 2
+    3300102: polySurface837 3
+    3300104: polySurface837 4
+    3300106: polySurface837 5
+    3300108: polySurface837 6
+    3300110: polySurface837 7
+    3300112: polySurface838
+    3300114: polySurface838 1
+    3300116: polySurface838 2
+    3300118: polySurface838 3
+    3300120: polySurface838 4
+    3300122: polySurface838 5
+    3300124: polySurface838 6
+    3300126: polySurface838 7
+    3300128: pPlane2
+    4300000: polySurface267
+    4300002: polySurface269
+    4300004: mobai1:mobai:Archmodels55_02_stand
+    4300006: polySurface834
+    4300008: polySurface835
+    4300010: polySurface838
+    4300012: polySurface837
+    4300014: polySurface833
+    4300016: polySurface267
+    4300018: polySurface269
+    4300020: Archmodels55_02_stand
+    4300022: polySurface834
+    4300024: polySurface835
+    4300026: polySurface838
+    4300028: polySurface837
+    4300030: polySurface833
+    4300032: polySurface267
+    4300034: polySurface269
+    4300036: Archmodels55_02_stand
+    4300038: polySurface834
+    4300040: polySurface835
+    4300042: polySurface838
+    4300044: polySurface837
+    4300046: polySurface833
+    4300048: polySurface267
+    4300050: polySurface269
+    4300052: Archmodels55_02_stand
+    4300054: polySurface834
+    4300056: polySurface835
+    4300058: polySurface838
+    4300060: polySurface837
+    4300062: polySurface833
+    4300064: polySurface267
+    4300066: polySurface269
+    4300068: Archmodels55_02_stand
+    4300070: polySurface834
+    4300072: polySurface835
+    4300074: polySurface838
+    4300076: polySurface837
+    4300078: polySurface833
+    4300080: polySurface267
+    4300082: polySurface269
+    4300084: Archmodels55_02_stand
+    4300086: polySurface834
+    4300088: polySurface835
+    4300090: polySurface838
+    4300092: polySurface837
+    4300094: polySurface833
+    4300096: polySurface267
+    4300098: polySurface269
+    4300100: Archmodels55_02_stand
+    4300102: polySurface834
+    4300104: polySurface835
+    4300106: polySurface838
+    4300108: polySurface837
+    4300110: polySurface833
+    4300112: polySurface267
+    4300114: polySurface269
+    4300116: Archmodels55_02_stand
+    4300118: polySurface834
+    4300120: polySurface835
+    4300122: polySurface838
+    4300124: polySurface837
+    4300126: polySurface833
+    4300128: pPlane2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
